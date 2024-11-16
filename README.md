@@ -38,8 +38,11 @@ Contém o checklist de testes, casos de teste, resultados e link com acesso aos 
 Durante a realização deste projeto, foram avaliadas as seguintes competências:
 
 🌐 HTTP: Compreensão e aplicação de métodos HTTP na comunicação com a API.
+
 🔧 Teste de API: Criação e execução de testes para validar as funcionalidades da API.
+
 💻 Postman: Utilização do Postman para testar e validar os endpoints da API.
+
 🔌 Endpoints Testados
 
 Adicionar Produtos a um Kit:
