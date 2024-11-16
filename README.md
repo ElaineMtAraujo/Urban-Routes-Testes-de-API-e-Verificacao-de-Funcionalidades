@@ -25,7 +25,8 @@ Exemplo de Resultados:
 
 📊 Captura de Tela: 
 
-<img width="1106" alt="Screenshot 2024-11-16 at 15 40 34" src="https://github.com/user-attachments/assets/8e0c98bd-a85c-42f6-8458-1dfdaad9ef08">
+<img width="1133" alt="Screenshot 2024-11-16 at 15 56 57" src="https://github.com/user-attachments/assets/5ccaede5-c9a3-4dbc-8de9-57afa297ee83">
+
 
 ## 📂 Estrutura dos Arquivos
 
